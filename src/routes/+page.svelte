@@ -10,6 +10,7 @@
     <h1 class="name">Max H. </h1>
     <h2>Här har jag samlat min uppgifter jag gjort i samband med webbutveckling i årskurs 2 på Maja Beskowgymnasiet!</h2>
     <h3>Inspirerade citat för min webbutvecklingsresa:</h3>
+    <p>"1 2 3 på det fjärde ska det ske, på det femte gäller det, på det sjätte smäller det!"</p>
     
     <!--Under denna kommer vi lägga till fler element-->
 
