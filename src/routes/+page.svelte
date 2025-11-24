@@ -10,6 +10,8 @@
     <h1 class="name">Max H. </h1>
     <h2>Här har jag samlat min uppgifter jag gjort i samband med webbutveckling i årskurs 2 på Maja Beskowgymnasiet!</h2>
     <h3>Inspirerade citat för min webbutvecklingsresa:</h3>
+    <a href="/Hem">Hem</a>
+    
     <!--Under denna kommer vi lägga till fler element-->
 
   </div>
@@ -29,6 +31,7 @@
   0L590.8,0L590.8,0L553.8,0L553.8,0L516.9,0L516.9,0L480,0L480,0L443.1,0L443.1,0L406.2,0L406.2,0L369.2,0L369.2,0L332.3,0L332.3,
   0L295.4,0L295.4,0L258.5,0L258.5,0L221.5,0L221.5,0L184.6,0L184.6,0L147.7,0L147.7,0L110.8,0L110.8,0L73.8,0L73.8,0L36.9,0L36.9,0L0,
   0L0,0Z"></path></svg>
+
 
 <style>
   main{
@@ -62,4 +65,4 @@ h1, h2, h3, p {
         
     
 
-  </style>
+</style>
