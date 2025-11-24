@@ -10,7 +10,6 @@
     <h1 class="name">Max H. </h1>
     <h2>Här har jag samlat min uppgifter jag gjort i samband med webbutveckling i årskurs 2 på Maja Beskowgymnasiet!</h2>
     <h3>Inspirerade citat för min webbutvecklingsresa:</h3>
-    <a href="/Hem">Hem</a>
     
     <!--Under denna kommer vi lägga till fler element-->
 
