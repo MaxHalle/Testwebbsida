@@ -18,6 +18,7 @@
     <!--Här kommer vi lägga till en bild senare i uppgiften 1.2.4 Extra styling-->  
 
 </main>
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,224L0,192L36.9,
   192L36.9,96L73.8,96L73.8,256L110.8,256L110.8,64L147.7,64L147.7,320L184.6,320L184.6,160L221.5,160L221.5,192L258.5,192L258.5,
   224L295.4,224L295.4,0L332.3,0L332.3,224L369.2,224L369.2,128L406.2,128L406.2,288L443.1,288L443.1,160L480,160L480,160L516.9,
@@ -50,19 +51,23 @@
   }
 
   
-.name{
+  .name{
     font-family:'Gill Sans';
     font-size: 50px;
-}
+  }
 
 
   /* Vi skiljer elementen med ett kommatecken(,) för att ge möjligheten till att ge flera element samma styling*/
-h1, h2, h3, p {
+  h1, h2, h3, p {
   display: inline;
   /*Ger utrymme mellan element*/
   margin: 10px;
-}
+  }
         
-    
+  svg {
+  width: 300px;
+  height: auto;
+  }
+
 
 </style>
