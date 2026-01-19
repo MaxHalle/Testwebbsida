@@ -5,8 +5,11 @@
 	let { children } = $props();
 </script>
 <nav>
+<a href="{base}/">Start</a>
 <a href="{base}/photoapp">Photo App</a>
 <a href="{base}/register">Register</a>
+<a href="{base}/login">Login</a>
+<a href="{base}/shoppinglist">Shoppinglist</a>
 </nav>
 <svelte:head>
 	<link rel="icon" href={favicon} />
