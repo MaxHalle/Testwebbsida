@@ -1,4 +1,4 @@
-import"../chunks/DsnmJJEf.js";import"../chunks/BgHsbmj1.js";import{C as h,D as w,F as p,G as i,H as e,I as f}from"../chunks/DFYXnjBr.js";import{s}from"../chunks/pAOtlmmq.js";var b=h(`<main><div><h1>Photoapp</h1> <p>Denna sida innehåller fina bilder</p></div> <div class="photos"><div class="image-wrapper"><img alt="Flexbox egenskaper"/></div> <div class="image-wrapper"><img alt="Flexbox cheatsheet"/></div> <div class="image-wrapper"><img alt="CSS Flexbox"/></div></div> <style>.photos{
+import"../chunks/DsnmJJEf.js";import"../chunks/C0X02-9a.js";import{C as h,D as w,F as p,G as i,H as e,I as f}from"../chunks/DnRr_ees.js";import{s}from"../chunks/7KZSY79w.js";var b=h(`<main><div><h1>Photoapp</h1> <p>Denna sida innehåller fina bilder</p></div> <div class="photos"><div class="image-wrapper"><img alt="Flexbox egenskaper"/></div> <div class="image-wrapper"><img alt="Flexbox cheatsheet"/></div> <div class="image-wrapper"><img alt="CSS Flexbox"/></div></div> <style>.photos{
       display:flex;
       max-width: 90vw;
       width: 100%;
