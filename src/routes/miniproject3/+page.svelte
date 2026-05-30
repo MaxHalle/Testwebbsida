@@ -202,7 +202,7 @@ h1 {
 
 .next-button {
   border: 1px solid black;
-  border-radius: 8px;
+  border-radius: 8px; 
   background: black;
   color: white;
   padding: 0.6rem 1rem;
