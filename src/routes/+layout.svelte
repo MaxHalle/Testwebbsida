@@ -12,6 +12,7 @@
 <a href="{base}/shoppinglist">Shoppinglist</a>
 <a href="{base}/memory">Memory</a>
 <a href="{base}/chat">Chat</a>
+<a href="{base}/search">Search</a>
 <a href="{base}/miniproject">Mini Project</a>
 <a href="{base}/miniproject2">Mini Project_2</a>
 <a href="{base}/miniproject3">Mini Project_3</a>
